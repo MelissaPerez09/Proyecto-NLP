@@ -1,0 +1,11 @@
+scikit-learn
+langdetect
+matplotlib
+nltk
+numpy
+pandas
+regex
+seaborn
+tqdm
+Unidecode
+vaderSentiment
